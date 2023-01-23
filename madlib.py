@@ -1,0 +1,12 @@
+adjective = input("input an adjective:") 
+animal = input("input an animal:")
+verb = input("input a verb:")
+exclamation = input("input an exclamation:")
+verb = input("input a verb:")
+verb = input("input a verb")
+
+print(f'The other day, I was really in trouble. It all started when I saw a very "{adjective}" ,')
+print(f'"{animal}" "{verb}" down the hallway. "{exclamation}!" I yelled. But all')
+print(f'I could think to do was to {verb} over and over. Miraculously,')
+print(f'that caused it to stop, but not before it tried to "{verb}"')
+print(f'right in front of my family.')
